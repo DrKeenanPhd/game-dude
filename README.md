@@ -199,6 +199,10 @@ await agent.step();
 
 ## Installation
 
+## Deployment
+
+This project can be easily deployed to Render. For detailed instructions, see [RENDER_DEPLOYMENT.md](RENDER_DEPLOYMENT.md).
+
 To install the package, run:
 
 ```bash
